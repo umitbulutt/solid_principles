@@ -16,6 +16,12 @@ public class DrawShape {
                 System.out.println("Drawing a rectangle.");
             }
 
+            // What if we need to draw another shape later?  -  Triangle
+
+//            if (shape instanceof Triangle) {
+//                System.out.println("Drawing a triangle.");
+//            }
+
         }
 
     }
