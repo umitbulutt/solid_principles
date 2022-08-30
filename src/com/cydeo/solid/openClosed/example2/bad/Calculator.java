@@ -23,6 +23,12 @@ public class Calculator {
             System.out.println(num1 / num2);
         }
 
+        // What happens if I want to add another operation later?   %
+
+//        if (operation.getType().equals(OperationType.MODULUS)) {
+//            System.out.println(num1 % num2);
+//        }
+
     }
 
 }
